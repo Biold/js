@@ -6,13 +6,7 @@ export default {
     {
       "name": "Smart Host Teknoloji TESTNET Explorer",
       "url": "https://s2.tl.web.tr:4000",
-      "standard": "EIP3091",
-      "icon": {
-        "url": "ipfs://QmTrLGHyQ1Le25Q7EgNSF5Qq8D2SocKvroDkLqurdBuSQQ",
-        "width": 1655,
-        "height": 1029,
-        "format": "png"
-      }
+      "standard": "EIP3091"
     }
   ],
   "faucets": [],
@@ -24,12 +18,6 @@ export default {
       "name": "EIP1559"
     }
   ],
-  "icon": {
-    "url": "ipfs://QmTrLGHyQ1Le25Q7EgNSF5Qq8D2SocKvroDkLqurdBuSQQ",
-    "width": 1655,
-    "height": 1029,
-    "format": "png"
-  },
   "infoURL": "https://smart-host.com.tr",
   "name": "Smart Host Teknoloji TESTNET",
   "nativeCurrency": {

@@ -28,12 +28,6 @@ export default {
   ],
   "faucets": [],
   "features": [],
-  "icon": {
-    "url": "ipfs://Qmdvmx3p6gXBCLUMU1qivscaTNkT6h3URdhUTZCHLwKudg",
-    "width": 1000,
-    "height": 1000,
-    "format": "png"
-  },
   "infoURL": "https://astar.network/",
   "name": "Astar",
   "nativeCurrency": {

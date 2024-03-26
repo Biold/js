@@ -6,13 +6,7 @@ export default {
     {
       "name": "wyzth",
       "url": "http://24.199.108.65:4000",
-      "standard": "EIP3091",
-      "icon": {
-        "url": "ipfs://QmT5UMzAftM4mHCtk4pWX4sqyJCki88APbqECywrhJp91Q",
-        "width": 324,
-        "height": 82,
-        "format": "png"
-      }
+      "standard": "EIP3091"
     }
   ],
   "faucets": [],

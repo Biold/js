@@ -10,12 +10,6 @@ export default {
     }
   ],
   "faucets": [],
-  "icon": {
-    "url": "ipfs://QmUwqGWGjjQweTprn5LBirAwRjYnteTiFLCVpSNHrfMmSL",
-    "width": 150,
-    "height": 150,
-    "format": "png"
-  },
   "infoURL": "https://chain.arzio.co",
   "name": "ARZIO Chain",
   "nativeCurrency": {
